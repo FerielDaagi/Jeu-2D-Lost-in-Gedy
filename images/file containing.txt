@@ -1,0 +1,7 @@
+poids   |taches                            |entetes
+1       |init perso                        |void init(Personne* p,int numperso) |void initPerso(Personne *p)
+1.5     |afficher perso(img,score,vies)    |void afficherPerso(Personne p,SDL_Surface *screen)
+1.5     |deplacer perso avec acceleration  |void MovePerso(Peronne *p)
+1.5     |animer perso                      |void animerPerso(Peronne *p)
+1       |saut                              |void saut(Personne *p)
+1.5     |ajout d un 2eme joueur            | 
